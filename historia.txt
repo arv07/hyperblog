@@ -1,1 +1,2 @@
-Este es el primer archivo de Git
+Este es el primer archivo de Git. Pero ahora se le ha agregado esta linea nueva.
+
